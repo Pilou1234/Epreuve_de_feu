@@ -8,3 +8,4 @@ mes_espaces.times do
     puts (" " * mes_espaces + "#" * diese )
 end
 
+#c'est fini
